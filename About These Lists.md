@@ -9,3 +9,8 @@ Links follow format as follows:
 >[Uploader Name] [HD/SD] [Site] - Link
 
 Note that due to Google+ integration, a user's real name may show instead of their username on YouTube. Despite this, editors should strive to use the uploader's username in this list.
+
+
+## Uploaders
+
+Uploaders are listed in Uploaders.md and should be referred to in lists by the name given in Uploaders.md - where they are listed with their username and a link to their user page on their respective website.
