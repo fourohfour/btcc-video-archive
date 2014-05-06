@@ -5,6 +5,7 @@ These lists intend to provide a place for fans of the British Touring Car Champi
 ## List Syntax
 
 Links follow format as follows:
+
 ... [Uploader Name] [HD/SD] [Site] - Link
 
 Note that due to Google+ integration, a user's real name may show instead of their username on YouTube. Despite this, editors should strive to use the uploader's username in this list.
